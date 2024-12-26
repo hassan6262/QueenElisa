@@ -14,7 +14,7 @@
             "required": true
         },
         "MONGODB_URL": {
-            "description": "mongodb+srv://TanTan:TanTan@cluster0.fhjwc.mongodb.net"
+            "description": "mongodb+srv://TanTan:TanTan@cluster0.fhjwc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
             "required": true
         }
     },
