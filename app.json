@@ -10,11 +10,11 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "QUEENELISA;;;==QUFRUNEJjQ3JzTYlVbBdXQtMTRxNEOEVUb3cmbuJ0Q4U3Msd1NiVTO010SjElWLhVV0lFMpwd=271287836212",
+            "description": "QUEENELISA;;;==QUFRUNEJjQ3JzTYlVbBdXQtMTRxNEOEVUb3cmbuJ0Q4U3Msd1NiVTO010SjElWLhVV0lFMpwd=271287836212"‚
             "required": true
         },
         "MONGODB_URL": {
-            "description": "mongodb+srv://TanTan:TanTan@cluster0.fhjwc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster"
+            "description": "mongodb+srv://TanTan:TanTan@cluster0.fhjwc.mongodb.net"
             "required": true
         }
     },
